@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+ padding-left: 50px;
+  padding-right: 50px;
+}
+body{
+  background-image: url(./components/background-home-desktop.jpg);
+  background-size: cover;
+}
+
+

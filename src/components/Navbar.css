@@ -1,0 +1,30 @@
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 160px;
+    padding-top: 60px;
+
+}
+ .Navbar nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+button{
+    color: white;
+        border: none;
+    background-color: transparent;
+}
+.box1{
+    box-sizing: content-box;
+}
+.box1 h1{
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#cont1{
+    width: 410px;
+    text-align: justify;
+}
