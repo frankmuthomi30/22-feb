@@ -3,13 +3,17 @@
 }
 article{
     display: grid;
-    grid-template-columns: repeat(2,50%);
+    grid-template-columns: repeat(2,40%);
     flex-direction: row;
-    column-gap: 0;
+    column-gap: 180px
+    
 }
 .box1{
     display: flex;
     flex-direction: column;
+    align-items: flex-end;
+    
+
 
 }
 .box2{
@@ -30,6 +34,7 @@ article{
     color: black;
     border-radius: 50%;
     text-align: center;
+    opacity: .7;
 }
 .cont2{
     font-size: 25px;

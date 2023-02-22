@@ -4,6 +4,7 @@
     justify-content: space-between;
     margin-bottom: 160px;
     padding-top: 60px;
+    
 
 }
  .Navbar nav{
@@ -11,6 +12,8 @@
     flex-direction: row;
     align-items: center;
     gap: 10px;
+    backdrop-filter: blur(1.5rem);
+    padding-right: 140px;
 }
 button{
     color: white;
